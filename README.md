@@ -1,0 +1,6 @@
+References
+[1] J. Han, H. Kim, and S. Park, “TaskDo: A daily task recommender system,” in Proc. IEEE Int. Conf. Big Data Smart Comput. (BigComp), Kyoto, Japan, 2019, pp. 1–8. DOI: 10.1109/BIGCOMP.2019.8862073
+[2] P. J. Bayliss and H. L. Ellis, “Right light at the right time: Development of innovative to-do list mobile application to optimize circadian lighting,” in Proc. IEEE Conf. Consumer Commun. Netw. (CCNC), Las Vegas, NV, USA, 2020, pp. 1–6. DOI: 10.1109/CCNC46108.2020.9258041
+[3] A. Kumar, R. Jain, and P. Sharma, “Gamification-based to-do list mobile application development,” in Proc. IEEE Int. Conf. Recent Adv. Electron. Comput. Sci. Eng. (RAECS), Chandigarh, India, 2023, pp. 1–5. DOI: 10.1109/RAECS2023.10277897
+[4] K. Nishida and K. Matsuo, “Where can we accomplish our to-do?: Estimating the target location of to-do tasks,” in Proc. IEEE Int. Conf. Ubiquitous Intell. Comput. (UIC), Philadelphia, PA, USA, 2018, pp. 55–62. DOI: 10.1109/UIC-ATC.2018.8432276
+[5] S. Smith and T. Brown, “AI-assisted task management: Enhancing productivity through intelligent to-do lists,” in Proc. IEEE Int. Conf. Comput. Sci. Inf. Technol. (ICCSIT), Singapore, 2021, pp. 112–118. DOI: 10.1109/ICCSIT.2021.9633256
